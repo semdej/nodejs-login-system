@@ -11,4 +11,4 @@ Enter your database credentials in the `.env` file
 ## Usage
 Run `node login.js` to load the page
 
-Now open http://127.0.0.1 to see your login page
+Now open http://127.0.0.1:3000 to see your login page
