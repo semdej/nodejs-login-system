@@ -7,4 +7,4 @@ Run `npm install` to install all needed dependencies
 ## Usage
 Run `node login.js` to load the page
 
-Now open [http://127.0.0.1:3000]:http://127.0.0.1 to see the login page
+Now open http://127.0.0.1 to see your login page
