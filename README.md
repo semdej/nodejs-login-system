@@ -4,6 +4,10 @@ A simple NodeJS login system that redirects to a html page
 ## Installation
 Run `npm install` to install all needed dependencies
 
+Create a MySQL database and import `login.sql` into your database
+
+Enter your database credentials in the `.env` file
+
 ## Usage
 Run `node login.js` to load the page
 
